@@ -1,0 +1,7 @@
+process,signal,story
+Procure to Pay,Supplier OTIF ↓,"Four suppliers show elevated delivery delays, increasing component availability risk."
+Plan to Produce,Schedule Adherence ↓,Production misses are concentrated in the same product groups affected by material constraints.
+Fulfillment,OTIF ↓,Customer fulfillment performance drops as production exceptions carry into committed orders.
+Order to Cash,Order Cycle Pressure,Orders requiring exception handling create risk of slower downstream processing.
+Record to Report,Margin Exposure,"Expedites, rework, and delayed revenue create potential financial impact."
+Hire to Retire / IT,Support Context,"IT SLA remains healthy, suggesting the primary issue is operational rather than service-platform related."
